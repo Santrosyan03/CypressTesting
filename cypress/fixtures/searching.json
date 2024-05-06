@@ -1,0 +1,50 @@
+{
+    "elementsContent": {
+        "ENG": {
+            "language": "ENG",
+            "description": "Search by",
+            "count": "(1)",
+            "filterText": "Filter",
+            "searchText": "text",
+            "sortBy": "Sort by",
+            "sortByContent": [
+                "By price",
+                "By color",
+                "By memory",
+                "By RAM"
+            ]
+        },
+        "productDetails": {
+            "lenovo": {
+                "name": "Lenovo Yoga",
+                "color": "Starlight",
+                "memory": "256GB",
+                "ram": "8GB RAM",
+                "price": "319000"
+            },
+            "airpods3": {
+                "name": "Apple Airpods 3",
+                "found": "true"
+            },
+            "noProduct": {
+                "search": "123456789",
+                "result": "No products found"
+            }
+        }
+    },
+
+    "searchProducts": {
+        "case1": {
+            "language": "ENG",
+            "product": "Lenovo"
+        },
+        "case2": {
+            "language": "ENG",
+            "product": "123456789"
+        },
+        "case3": {
+            "language": "ENG",
+            "product": "Apple Airpods 3"
+        }
+    }
+}
